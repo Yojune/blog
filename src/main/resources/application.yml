@@ -1,0 +1,10 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  messages:
+    basename: msg/messages
+
+comment.avatar: /images/avatar.png
+
